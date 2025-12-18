@@ -41,5 +41,6 @@ pip install -r requirements.txt
 ## Ejemplos de uso
 
 ```bash
-python3 extraer_mpd.py "https://www.mediasetinfinity.es/..."
+python3 SCRIPT + URL
+python3 extraer_mpd.py https://www.mediasetinfinity.es/...
 ```
