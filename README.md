@@ -30,6 +30,7 @@ Clona el repositorio:
 ```bash
 git clone https://github.com/tu-usuario/Extract-Infinity-MPD.git
 cd Extract-Infinity-MPD
+chmod +755 extraer_mpd.py
 ```
 
 ### Instala las dependencias de Python:
