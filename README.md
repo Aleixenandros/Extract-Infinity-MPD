@@ -1,7 +1,7 @@
 # Extract-Infinity-MPD
 Extrae manifiestos MPD/M3U8 de Mediaset Infinity y genera el comando para descargar con yt-dlp
 
-El script utiliza Selenium para analizar el tráfico de red del reproductor, bloquea anuncios y detecta el MPD de vídeo correcto.
+El script utiliza Selenium para analizar el tráfico de red del reproductor, acepta las cookies, bloquea anuncios y detecta el MPD del vídeo.
 
 ---
 
