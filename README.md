@@ -24,6 +24,7 @@ El script utiliza Selenium para analizar el tráfico de red del reproductor, ace
 ---
 
 ## Instalación
+### Linux
 
 Clona el repositorio:
 
@@ -33,14 +34,28 @@ cd Extract-Infinity-MPD
 chmod +755 extraer_mpd.py
 ```
 
+### Windows
+Descarga el repo en zip y descomprimes donde quieras ejecutarlo; en el escritorio, en descargas, etc
+
 ### Instala las dependencias de Python:
 
 ```bash
 pip install -r requirements.txt
 ```
 ## Ejemplos de uso
-
+### Linux
 ```bash
 python3 SCRIPT + URL
 python3 extraer_mpd.py https://www.mediasetinfinity.es/...
 ```
+
+### Windows
+
+```bash
+python SCRIPT + URL
+python extraer_mpd.py https://www.mediasetinfinity.es/...
+```
+
+## Atención
+
+Proyecto únicamente con fines educativos y de investigación. No me hago responsable del uso indebido de este script.
